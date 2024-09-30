@@ -62,7 +62,7 @@ function generResta(){
     <h2>Suma</h2>
     <p><strong>Dato 1:</strong> ${numberOne}</p>
     <p><strong>Dato 2:</strong> ${numberTwo}</p>
-    <p><strong>Rsta:</strong> ${totaRest}</p>  
+    <p><strong>Resta:</strong> ${totaRest}</p>  
  
 `;
 invoiceForm.insertAdjacentHTML('beforeend', itemHTML);
